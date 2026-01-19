@@ -1,0 +1,47 @@
+<resources>
+
+    <!-- App -->
+    <string name="app_name">NotaKu</string>
+    <string name="app_tagline">Membuat catatan jadi lebih mudah</string>
+
+    <!-- Splash / Loading -->
+    <string name="loading">Memuat...</string>
+    <string name="searching_location">Mendeteksi lokasi...</string>
+
+    <!-- Location -->
+    <string name="city">Jakarta, Indonesia</string>
+
+    <!-- Welcome -->
+    <string name="welcome_title">Selamat Datang</string>
+    <string name="welcome_subtitle">Aplikasi catatan harian Anda</string>
+    <string name="start">Mulai</string>
+
+    <!-- Greeting -->
+    <string name="greeting_morning">Selamat Pagi</string>
+    <string name="greeting_afternoon">Selamat Siang</string>
+    <string name="greeting_evening">Selamat Sore</string>
+    <string name="greeting_night">Selamat Malam</string>
+
+    <!-- Home -->
+    <string name="home_title">Catatan Saya</string>
+    <string name="empty_note">Belum ada catatan</string>
+
+    <!-- Toolbar -->
+    <string name="menu">Menu</string>
+    <string name="search">Cari</string>
+    <string name="more_options">Lainnya</string>
+    <string name="add_note">Tambah Catatan</string>
+
+    <!-- Add Note -->
+    <string name="add_note_title">Tambah Catatan</string>
+    <string name="label_title">Judul</string>
+    <string name="label_content">Isi</string>
+    <string name="hint_title">Masukkan judul</string>
+    <string name="hint_content">Tulis catatan di sini...</string>
+
+    <!-- Accessibility -->
+    <string name="desc_back">Kembali</string>
+    <string name="desc_add">Tambah</string>
+    <string name="desc_more">Lainnya</string>
+
+</resources>

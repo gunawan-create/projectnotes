@@ -1,0 +1,47 @@
+<resources>
+
+    <!-- App -->
+    <string name="app_name">NotaKu</string>
+    <string name="app_tagline">メモをもっと簡単に</string>
+
+    <!-- Splash / Loading -->
+    <string name="loading">読み込み中...</string>
+    <string name="searching_location">位置情報を取得中...</string>
+
+    <!-- Location -->
+    <string name="city">インドネシア・ジャカルタ</string>
+
+    <!-- Welcome -->
+    <string name="welcome_title">ようこそ</string>
+    <string name="welcome_subtitle">毎日のメモアプリ</string>
+    <string name="start">開始</string>
+
+    <!-- Greeting -->
+    <string name="greeting_morning">おはようございます</string>
+    <string name="greeting_afternoon">こんにちは</string>
+    <string name="greeting_evening">こんばんは</string>
+    <string name="greeting_night">おやすみなさい</string>
+
+    <!-- Home -->
+    <string name="home_title">マイノート</string>
+    <string name="empty_note">まだノートがありません</string>
+
+    <!-- Toolbar -->
+    <string name="menu">メニュー</string>
+    <string name="search">検索</string>
+    <string name="more_options">その他</string>
+    <string name="add_note">ノート追加</string>
+
+    <!-- Add Note -->
+    <string name="add_note_title">ノートを追加</string>
+    <string name="label_title">タイトル</string>
+    <string name="label_content">内容</string>
+    <string name="hint_title">タイトルを入力</string>
+    <string name="hint_content">ここにメモを書く...</string>
+
+    <!-- Accessibility -->
+    <string name="desc_back">戻る</string>
+    <string name="desc_add">追加</string>
+    <string name="desc_more">その他</string>
+
+</resources>
